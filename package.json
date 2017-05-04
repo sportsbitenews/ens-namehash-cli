@@ -1,0 +1,22 @@
+{
+  "name": "ens-namehash-cli",
+  "version": "1.0.0",
+  "description": "Command line tool to get the namehash from name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanfeiz/ens-namehash-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanfeiz/ens-namehash-cli/issues"
+  },
+  "homepage": "https://github.com/yuanfeiz/ens-namehash-cli#readme",
+  "dependencies": {
+    "eth-ens-namehash": "^1.0.2"
+  }
+}
